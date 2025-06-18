@@ -20,5 +20,8 @@ This project investigates the disproportionately high cost and inefficiency of p
 - **Excel** – Quick lookups & summaries
 - **Open Data & Web Scraping** – Source information
 
+  ## Week 1 :
+Strategic partnership project to improve Canada Post’s parcel delivery through targeted 3PL collaborations. Includes market research, partner evaluation, integration plan, and performance tracking.
+
 ## 🙋‍♀️ Author
 **Parul Dhami** – Business Analyst, aspiring Data Analyst. Passionate about solving real-world logistic and service inefficiency problems through data.
