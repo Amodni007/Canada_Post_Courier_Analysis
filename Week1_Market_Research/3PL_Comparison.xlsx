@@ -1,1 +1,42 @@
+# 📦 Week 1 – Market Research & 3PL Analysis
+
+This folder contains the Week 1 deliverables for the Canada Post 3PL Partnership Project. The focus this week is on conducting detailed market research and evaluating potential third-party logistics (3PL) partners based on key operational criteria.
+
+## 📊 Objectives
+
+- Identify and assess top courier/3PL companies operating in Canada.
+- Compare them on parameters like delivery speed, service areas, pricing, client base, technology, and sustainability.
+- Provide actionable insights to support partnership decisions.
+
+## 🧩 Comparison Metrics
+
+The following criteria were used to evaluate each 3PL provider:
+
+- **Delivery Speed** – Standard and express options.
+- **Service Areas** – Geographic reach (urban, rural, intercity).
+- **Pricing Model** – Flat rate, volume-based, tiered, or custom.
+- **Existing Clients** – Major B2B or e-commerce partners.
+- **Technology Stack** – Real-time tracking, API support, automation.
+- **Sustainability Practices** – Emission goals, electric fleets, packaging.
+- **Brand Reputation** – Trust, reliability, and social proof.
+
+## 🔍 Tools Used
+
+- **Excel**: Data table creation, sorting, color coding
+- **Manual Web Research**: Company websites, annual reports, logistics blogs
+- **PowerPoint** (referenced): Used for presentation insights cross-check
+
+## 📌 Key Insights
+
+- Canada Post and UPS lead in market share (~18% each).
+- Purolator and FedEx show competitive advantages in delivery speed and urban reach.
+- Newer players like InterFulfillment and Bison Transport stand out in tech and niche service offerings.
+- Sustainability is a growing differentiator, with Canada Post leading in public trust.
+
+## 🔗 Related Presentations
+
+- See `/Presentations/CANADA_POST.pptx` for visual summaries of market position and partner benefits.
+
+---
+
 
